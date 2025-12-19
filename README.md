@@ -49,5 +49,7 @@ The application loads my GitHub profile by default and also allows users to sear
 
 ---
 
+Note: Repo Results Returned is capped at 30 items
+
 ## Author
 Johnny Davis
