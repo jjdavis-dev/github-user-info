@@ -49,7 +49,7 @@ The application loads my GitHub profile by default and also allows users to sear
 
 ---
 
-Note: Repo Results Returned is capped at 30 items
+Note: Repo Results Returned is capped at 30. This was done to prevent any potential issues from popping up.
 
 ## Author
 Johnny Davis
