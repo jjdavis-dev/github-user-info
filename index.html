@@ -16,17 +16,20 @@
     <h1 class="mb-4 text-center">GitHub User Information</h1>
 
     <!-- Username Lookup -->
-    <div class="input-group mb-4">
+    <div class="input-group mb-3">
       <input
         type="text"
         id="usernameInput"
         class="form-control"
-        placeholder="Enter a GitHub username to search for additonal profiles"
+        placeholder="Enter GitHub username"
       >
       <button class="btn btn-primary" id="searchBtn">
         Search
       </button>
     </div>
+
+    <!-- Error Message -->
+    <div id="message"></div>
 
     <!-- User Info Card -->
     <div class="card mb-4">
